@@ -62,15 +62,15 @@ public class Partida {
 	     			//creamos un swtich para las diferentes opciones del menu
 	     			switch (opcion){
 	     			case 1:
-	     				tipoPartida=TipoPartida.JugadorJugador;
+	     				//tipoPartida=TipoPartida.JugadorJugador;
 	     				return 1;
 	     			
 	     			case 2:
-	     				tipoPartida=TipoPartida.JugadorMaquina;
+	     				//tipoPartida=TipoPartida.JugadorMaquina;
 	     				return 2;
 	     			
 	     			case 3:
-	     				tipoPartida=TipoPartida.MaquinaMaquina;
+	     				//tipoPartida=TipoPartida.MaquinaMaquina;
 	     				return 3;
 	     			
 	     			case 4:
