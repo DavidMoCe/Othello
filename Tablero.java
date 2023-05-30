@@ -602,8 +602,10 @@ public class Tablero {
     	//Comparamos las dos variables y mostramos el mensaje del ganador que es el que tiene más fichas
     	if(blancas>negras) {
     		System.out.println(tablero.NEGRITAS+tablero.GREEN+"GANAN LAS BLANCAS"+tablero.RESET);
-    	} else {
+    	} else if(blancas<negras) {
     		System.out.println(tablero.NEGRITAS+tablero.GREEN+"GANAN LAS NEGRAS"+tablero.RESET);
+    	} else {
+    		System.out.println(tablero.NEGRITAS+tablero.GREEN+"HA SIDO UN EMPATE"+tablero.RESET);
     	}
     	//mostramos la puntuacion
     	System.out.println("-----Puntuación-----");
