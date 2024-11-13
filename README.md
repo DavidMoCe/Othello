@@ -35,8 +35,8 @@ This mode allows two players to play against each other on the same device. Each
 
 In this mode, a human player plays against the machine. The player selects their color at the start, can enter a name, and can choose between two difficulty levels:
 
-- **Easy** 😌: The machine plays in a simple manner, making random or non-strategic decisions.
-- **Hard** 😈: The machine uses a more complex strategy to make decisions, aiming to maximize its advantage.
+- **Easy** 😌: The machine plays in a simple way, finding the first available position to place a piece. The machine randomly traverses the board, meaning it can go from top to bottom and left to right, top to bottom and right to left, bottom to top and left to right, or bottom to top and right to left.
+- **Hard** 😈: The machine uses a more complex strategy, looking for the position where it can capture the most pieces. Just like in easy mode, the machine randomly traverses the board using the same traversal options mentioned.
 
 ### 🧠 Machine vs Machine
 
@@ -112,8 +112,8 @@ Este modo permite que dos jugadores jueguen entre sí en el mismo dispositivo. C
 
 En este modo, un jugador humano juega contra la máquina. El jugador selecciona su color al inicio, se puede poner un nombre y puede elegir entre dos niveles de dificultad:
 
-- **Fácil** 😌: La máquina juega de forma sencilla, tomando decisiones aleatorias o poco estratégicas.
-- **Difícil** 😈: La máquina utiliza una estrategia más compleja para tomar decisiones, buscando maximizar su ventaja.
+- **Fácil** 😌: La máquina juega de forma sencilla, encontrando la primera posición disponible para colocar una ficha. La máquina recorre el tablero de manera aleatoria, lo que significa que puede recorrerlo de arriba a abajo y de izquierda a derecha, de arriba a abajo y de derecha a izquierda, de abajo a arriba y de izquierda a derecha, o de abajo a arriba y de derecha a izquierda.
+- **Difícil** 😈: La máquina utiliza una estrategia más compleja, buscando la posición donde puede capturar más fichas. Al igual que en el modo fácil, la máquina recorre el tablero de manera aleatoria utilizando las mismas opciones de recorrido mencionadas.
 
 ### 🧠 Máquina vs Máquina
 
