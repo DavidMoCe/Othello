@@ -33,7 +33,7 @@ This mode allows two players to play against each other on the same device. Each
 
 ### 🤖 Player vs Machine
 
-In this mode, a human player plays against the machine. The player selects their color at the start and can choose from two difficulty levels:
+In this mode, a human player plays against the machine. The player selects their color at the start, can enter a name, and can choose between two difficulty levels:
 
 - **Easy** 😌: The machine plays in a simple manner, making random or non-strategic decisions.
 - **Hard** 😈: The machine uses a more complex strategy to make decisions, aiming to maximize its advantage.
@@ -110,7 +110,7 @@ Este modo permite que dos jugadores jueguen entre sí en el mismo dispositivo. C
 
 ### 🤖 Jugador vs Máquina
 
-En este modo, un jugador humano juega contra la máquina. El jugador selecciona su color al inicio y puede elegir entre dos niveles de dificultad:
+En este modo, un jugador humano juega contra la máquina. El jugador selecciona su color al inicio, se puede poner un nombre y puede elegir entre dos niveles de dificultad:
 
 - **Fácil** 😌: La máquina juega de forma sencilla, tomando decisiones aleatorias o poco estratégicas.
 - **Difícil** 😈: La máquina utiliza una estrategia más compleja para tomar decisiones, buscando maximizar su ventaja.
